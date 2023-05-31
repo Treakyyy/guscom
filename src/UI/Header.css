@@ -1,0 +1,11 @@
+.containerHeader{
+    background-color: rgb(56, 54, 54);
+    height: 70px;
+}
+.gameHeader{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 15px 20px;
+    color: #FAF6F2;
+}
