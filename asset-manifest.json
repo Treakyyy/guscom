@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/guscom/static/css/main.e788bd5a.css",
+    "main.css": "/guscom/static/css/main.c8c24464.css",
     "main.js": "/guscom/static/js/main.3fc1e480.js",
     "static/media/chess.svg": "/guscom/static/media/chess.e454e2ee5297b2aaa3e372d9e258de5d.svg",
     "static/media/pen.svg": "/guscom/static/media/pen.69c5c1b2e26cbe49e6ec6673d5d9ba56.svg",
@@ -11,11 +11,11 @@
     "static/media/right.svg": "/guscom/static/media/right.8d3acd7b877b38b0887f7a61c185fe6c.svg",
     "static/media/avatar.svg": "/guscom/static/media/avatar.cb9133e96a6c322f60c4fe7b5b0085e5.svg",
     "static/media/close.svg": "/guscom/static/media/close.3db45d0a420c9b6c5428243b365afe83.svg",
-    "main.e788bd5a.css.map": "/guscom/static/css/main.e788bd5a.css.map",
+    "main.c8c24464.css.map": "/guscom/static/css/main.c8c24464.css.map",
     "main.3fc1e480.js.map": "/guscom/static/js/main.3fc1e480.js.map"
   },
   "entrypoints": [
-    "static/css/main.e788bd5a.css",
+    "static/css/main.c8c24464.css",
     "static/js/main.3fc1e480.js"
   ]
 }
