@@ -96,7 +96,7 @@
 }
 .contentHeader{
     display: flex;
-    gap: 50px;
+    gap: 75px;
 }
 .containerContent{
     display: flex;
@@ -109,7 +109,7 @@
 }
 .contentHeaderData{
     display: flex;
-    gap: 130px;
+    gap: 120px;
 }
 .users{
     display: flex;
