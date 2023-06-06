@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/guscom/static/css/main.e788bd5a.css",
+    "main.js": "/guscom/static/js/main.3fc1e480.js",
+    "static/media/chess.svg": "/guscom/static/media/chess.e454e2ee5297b2aaa3e372d9e258de5d.svg",
+    "static/media/pen.svg": "/guscom/static/media/pen.69c5c1b2e26cbe49e6ec6673d5d9ba56.svg",
+    "static/media/search.svg": "/guscom/static/media/search.cbfef3f9c7d7872b69cf.svg",
+    "index.html": "/guscom/index.html",
+    "static/media/left.svg": "/guscom/static/media/left.79cd0bb7cce54123b50337c2f5271a82.svg",
+    "static/media/down.svg": "/guscom/static/media/down.bf06da24190389a213810c7e8f6e7264.svg",
+    "static/media/right.svg": "/guscom/static/media/right.8d3acd7b877b38b0887f7a61c185fe6c.svg",
+    "static/media/avatar.svg": "/guscom/static/media/avatar.cb9133e96a6c322f60c4fe7b5b0085e5.svg",
+    "static/media/close.svg": "/guscom/static/media/close.3db45d0a420c9b6c5428243b365afe83.svg",
+    "main.e788bd5a.css.map": "/guscom/static/css/main.e788bd5a.css.map",
+    "main.3fc1e480.js.map": "/guscom/static/js/main.3fc1e480.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e788bd5a.css",
+    "static/js/main.3fc1e480.js"
+  ]
+}
