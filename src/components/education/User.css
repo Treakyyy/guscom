@@ -1,0 +1,51 @@
+.containerUser{
+    display: flex;
+}
+.contentUser{
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 100px;
+}
+.headerUser{
+    color: #FAF6F2;
+    text-align: left;
+}
+.textUser{
+    color: #FAF6F2;
+}
+.userProfile{
+    width: 900px;
+    background-color: rgb(56, 54, 54);
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.userNameAndStatus{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    margin-top: 10px;
+}
+.userAbout{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 140px;
+}
+.userInputContainer{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    gap: 10px;
+}
+.redRectangle{
+    width: 12px;
+    height: 12px;
+    background-color: red;
+    border-radius: 3px;
+}
+
+
+
+
+

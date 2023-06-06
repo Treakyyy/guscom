@@ -1,0 +1,120 @@
+.containerProposition {
+  display: flex;
+}
+.containerContentPropositions {
+  margin-left: 20px;
+}
+.Propositions {
+  color: #faf6f2;
+  text-align: left;
+  margin-top: 50px;
+}
+.controlsProposition {
+  display: flex;
+  justify-content: space-between;
+}
+.inputPropositions {
+  height: 45px;
+  width: 400px;
+  background-color: transparent;
+  border-radius: 5px;
+  border: 1px solid rgb(56, 54, 54);
+  color: #faf6f2;
+  padding-left: 10px;
+}
+.btnPropositions {
+  width: 100px;
+  height: 50px;
+  background-color: transparent;
+  border-radius: 5px;
+  border: 1px solid red;
+  color: #faf6f2;
+  cursor: pointer;
+}
+.usersContainerPropositions {
+  margin-top: 10px;
+  display: grid;
+  grid-template-columns: 1fr;
+}
+.usersContentPropositions {
+  width: 1100px;
+  background-color: rgb(56, 54, 54);
+  border-radius: 10px;
+  color: #faf6f2;
+  text-align: left;
+  padding: 20px;
+}
+.headerContainerPropositions {
+  display: grid;
+  grid-template-columns: 1fr 1fr 2fr 1fr 1fr;
+}
+.imgAndName {
+  padding-left: 80px;
+}
+.routerBtn {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+.btnCreateComplaint {
+  width: 300px;
+  height: 60px;
+  background-color: rgb(14, 174, 14);
+  color: #faf6f2;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.btnComplaint {
+  width: 300px;
+  height: 60px;
+  background-color: transparent;
+  color: #FAF6F2;
+  border: 1px solid red;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.btnComplaint:hover {
+  background-color: rgb(56, 54, 54);
+}
+.btnCreateComplaint:hover {
+  background-color: rgb(55, 177, 55);
+}
+.colonsUsersProposition{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.message{
+    width: 300px;
+}
+.containerHeaderContent{
+    display: flex;
+    gap: 300px;
+}
+.contentHeader{
+    display: flex;
+    gap: 50px;
+}
+.containerContent{
+    display: flex;
+    gap: 100px;
+    margin-top: 10px;
+}
+.contentUserHeader{
+    display: flex;
+    gap: 70px;
+}
+.contentHeaderData{
+    display: flex;
+    gap: 130px;
+}
+.users{
+    display: flex;
+    gap: 65px;
+}
+.hr{
+    height: 1px;
+}

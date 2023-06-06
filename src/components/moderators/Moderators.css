@@ -1,0 +1,74 @@
+.containerModerators{
+    display: flex;
+}
+.containerContentModerators{
+    margin-left: 20px;
+}
+.moderators{
+    color: #FAF6F2;
+    text-align: left;
+    margin-top: 50px;
+}
+.controlsModerator{
+    display: flex;
+    gap: 70px;
+}
+.inputModerators{
+    height: 45px;
+    width: 400px;
+    background-color: transparent;
+    border-radius: 5px;
+    border: 1px solid rgb(56, 54, 54);
+    color: #FAF6F2;
+    padding-left: 10px;
+}
+.btnModerators{
+    width: 100px;
+    height: 50px;
+    background-color: transparent;
+    border-radius: 5px;
+    border: 1px solid red;
+    color: #FAF6F2;
+    cursor: pointer;
+}
+.inputAndBtnModeratorsContainer{
+    display: flex;
+    gap: 25px;
+}
+.usersContainerModerators{
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.usersContentModerators{
+    width: 900px;
+    background-color: rgb(56, 54, 54);
+    border-radius: 10px;
+    color: #FAF6F2;
+    text-align: left;
+    padding: 20px;
+}
+.headerContainerModerators{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.name{
+    display: flex;
+    margin-left: 140px;
+}
+.imgAndName{
+    padding-left: 80px;
+}
+.usersModerators{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 10px;
+}
+.infoModerators{
+    display: flex;
+    gap: 30px;
+}
+.status{
+    display: flex;
+    justify-content: space-between;
+}

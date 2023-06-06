@@ -1,0 +1,43 @@
+.block{
+    width: 900px;
+    background-color: rgb(56, 54, 54);
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.blockText{
+    color: #FAF6F2;
+}
+.blockText1{
+    color: #FAF6F2;
+    margin-bottom: 230px;
+}
+.userInput{
+    width: 500px;
+    border-radius: 5px;
+    background-color: transparent;
+    color: #FAF6F2;
+    border: 1px solid rgb(44, 42, 42);
+    padding: 15px;
+}
+.contentUserBody{
+    display: flex;
+    align-items: center;
+    justify-content: space-between ;
+    gap: 230px;
+}
+.moreUserInput{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.userBtn{
+    width: 150px;
+    height: 50px;
+    color: #FAF6F2;
+    border: 1px solid red;
+    border-radius: 5px;
+    background-color: transparent;
+    cursor: pointer;
+}

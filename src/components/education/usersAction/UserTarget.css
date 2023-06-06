@@ -1,0 +1,64 @@
+.target{
+    width: 900px;
+    background-color: rgb(56, 54, 54);
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.targetText{
+    color: #FAF6F2;
+    display: flex;
+    gap: 800px;
+}
+.userTargetInput{
+    width: 500px;
+    border-radius: 5px;
+    background-color: transparent;
+    color: #FAF6F2;
+    border: 1px solid #FAF6F2;
+    padding: 15px;
+    margin-right: 100px;
+}
+.userTargetInputMedium{
+    width: 300px;
+    border-radius: 5px;
+    background-color: transparent;
+    color: #FAF6F2;
+    border: 1px solid #FAF6F2;
+    padding: 15px;
+}
+.userTargetInputSmall{
+    width: 50px;
+    border-radius: 5px;
+    background-color: transparent;
+    color: #FAF6F2;
+    border: 1px solid #FAF6F2;
+    padding: 15px;
+}
+.contentUserBody{
+    display: flex;
+    align-items: center;
+    justify-content: space-between ;
+    gap: 230px;
+}
+.contentUserBodyMedium1{
+    display: flex;
+    align-items: center;
+    gap: 231px;
+}
+.contentUserBodySmall{
+    display: flex;
+    align-items: center;
+    gap: 157px;
+}
+.contentUserBodyMedium2{
+    display: flex;
+    align-items: center;
+    gap: 236px;
+}
+.contentUserBodyMedium3{
+    display: flex;
+    align-items: center;
+    gap: 265px;
+}

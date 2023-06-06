@@ -1,5 +1,6 @@
 import './Header.css'
 import Chess from './icons/Chess'
+import Avatar from './icons/Avatar'
 
 
 
@@ -10,9 +11,9 @@ const Header = () => {
                 <Chess/>
                 <span>Life Game</span>
             </div>
-            <div>
-                <button></button>
-                <img src="" alt="" />
+            <div className='avatarHeader'>
+                <button className='headerBtn'>Обновить</button>
+                <Avatar/>
             </div>
         </div>
     )

@@ -1,0 +1,15 @@
+.controls{
+    display: flex;
+    gap: 3rem;
+}
+.btn{
+    cursor: pointer;
+    background-color: transparent;
+    border: 1px solid red;
+    border-radius: 5px;
+    color: #FAF6F2;
+    width: 150px;
+}
+.btn:hover{
+    background-color: rgb(56, 54, 54);
+}
